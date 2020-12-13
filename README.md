@@ -2,7 +2,7 @@
 
 A2 for HCI Covid Application with review and changes. The application is designed to inform users of COVID-19 and help create a platform for the eldery to seek aid in the times. The general focus for this application is more towards Canadian stats. Other functions of the application are informing the user about symptoms of COVID-19, while also differentiating it the Flu so that the public is not misinformed. It also includes a forum page where users can request help and where volunteers can reach out to them to aid them wheather it be free or at a cost agreed upon both parties.
 
-Figma URL: https://www.figma.com/file/7R7ggx4LgXrfs8ulGJ5nfy/Assignment1-P1?node-id=0%3A1
+Figma URL: https://www.figma.com/file/O36jsdBRYVvJ6MbIUaoO6p/Assignment1-2?node-id=0%3A1
 
 Explanation Video: https://youtu.be/893pulIjBJE
 
